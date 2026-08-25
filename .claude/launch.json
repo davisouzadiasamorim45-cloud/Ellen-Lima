@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "ellen-react",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "react-app", "run", "dev", "--", "--host"],
+      "port": 5173
+    }
+  ]
+}
